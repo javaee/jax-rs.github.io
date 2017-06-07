@@ -1,0 +1,19 @@
+-classpath '/export/home/japod/workspace/jsr311-api-1.1.1/target/classes'
+ -encoding
+'ISO-8859-1'
+-protected
+-sourcepath
+'/export/home/japod/workspace/jsr311-api-1.1.1/src'
+-author
+-bottom
+'Copyright &#169; 2009 <a href="http://www.sun.com/">Sun Microsystems, Inc</a>. All Rights Reserved.'
+-charset
+'ISO-8859-1'
+-d
+'/export/home/japod/workspace/jsr311-api-1.1.1/target/apidocs'
+-doctitle
+'jsr311-api 1.1.1 API'
+-use
+-version
+-windowtitle
+'jsr311-api 1.1.1 API'
